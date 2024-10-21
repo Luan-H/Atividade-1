@@ -3,7 +3,6 @@ body{
     place-items: center;
 }
 div{
-    border: 1px solid red;
     align-items: center;
     text-align: center;
     width: 35%;
